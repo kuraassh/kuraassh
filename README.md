@@ -14,9 +14,11 @@
 <p align="center">
 	<a href="https://t.me/kuraassh" target="_blank">My personal Telegram</a>
 	<a href="https://t.me/kuraassh" target="_blank">
-		<img src="./kurash.png" />
-	</a>
+		
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/92112412/163650751-e00ee070-032c-4319-92b2-36a96d97227c.gif" alt="animated" />
 </p>
+		
 
 
 # 📊 Stats
@@ -27,6 +29,11 @@
 			<td style="width: 10px; height: 125px; text-align: center; vertical-align: middle;">
 				<a href="https://github.com/kuraassh">
 					<img src="https://github-readme-stats.vercel.app/api?username=kuraassh&bg_color=D87AA8&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" align="center" />
+				</a>
+			</td>
+			<td style="width: 28px; height: 118px; text-align: center; vertical-align: middle;" rowspan="2">
+				<a href="https://github.com/kuraassh">
+					<img src="./kurash.png" align="center" />
 				</a>
 			</td>
 		</tr>
