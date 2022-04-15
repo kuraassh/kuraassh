@@ -9,17 +9,6 @@
 	</a>
 </p>
 
-# 🔗 Reach me
-
-<p align="center">
-	<a href="https://t.me/kuraassh" target="_blank">My personal Telegram</a>
-	<a href="https://t.me/kuraassh" target="_blank">
-		
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/92112412/163650751-e00ee070-032c-4319-92b2-36a96d97227c.gif" alt="animated" />
-</p>
-		
-
 
 # 📊 Stats
 
